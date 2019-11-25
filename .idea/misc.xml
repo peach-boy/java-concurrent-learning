@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/CountDownLatch/pom.xml" />
+        <option value="$PROJECT_DIR$/Semaphore/pom.xml" />
+        <option value="$PROJECT_DIR$/Exchanger/pom.xml" />
+        <option value="$PROJECT_DIR$/CyclicBarrier/pom.xml" />
+        <option value="$PROJECT_DIR$/FutureAndCallable/pom.xml" />
+      </list>
+    </option>
+  </component>
+</project>

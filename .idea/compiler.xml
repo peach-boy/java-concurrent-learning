@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="CountDownLatch" />
+        <module name="CyclicBarrier" />
+        <module name="Exchanger" />
+        <module name="FutureAndCallable" />
+        <module name="Semaphore" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="CountDownLatch" target="1.7" />
+      <module name="CyclicBarrier" target="1.7" />
+      <module name="Exchanger" target="1.7" />
+      <module name="FutureAndCallable" target="1.5" />
+      <module name="learning-example" target="1.5" />
+      <module name="Semaphore" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
